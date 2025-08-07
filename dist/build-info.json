@@ -1,0 +1,25 @@
+{
+  "buildInformation": {
+    "buildDate": "8/6/2025, 10:07:02 PM",
+    "buildDateUTC": "Wed, 06 Aug 2025 16:37:02 GMT",
+    "gitCommit": "c949fe71e5e28fa6a5d1a4c6c6ce0fe010870c1c",
+    "gitBranch": "feat-ui",
+    "projectVersion": "1.1.0",
+    "webpackVersion": "5.98.0",
+    "nodeVersion": "v22.18.0",
+    "buildDuration": "6.52 seconds"
+  },
+  "outputFiles": [
+    "index.html",
+    "app.82cce511a86ec84f9b6d.js.LICENSE.txt",
+    "app.49472ee004c542247cbd.js.LICENSE.txt",
+    "app.a60ca41c9d56ac22b255.js",
+    "app.b15f848fcdc16b3a4de8.js",
+    "app.82cce511a86ec84f9b6d.js",
+    "app.49472ee004c542247cbd.js",
+    "app.a60ca41c9d56ac22b255.js.map",
+    "app.b15f848fcdc16b3a4de8.js.map",
+    "app.82cce511a86ec84f9b6d.js.map",
+    "app.49472ee004c542247cbd.js.map"
+  ]
+}
